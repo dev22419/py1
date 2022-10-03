@@ -12,3 +12,6 @@ address.py is a program to take a single line input and print it in multi line .
 
 ## game.py 
 game.py is a number guessing game made with python . (random module is used )
+
+## RTD.py
+RTD.py is a game to roll the dice and guess the number with python . (time , random module is used )
