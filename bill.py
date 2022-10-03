@@ -1,7 +1,14 @@
+# code by : dev patel
+# www.github.con/dev22419/
+
+import os
+
 def display(a , s):
+    os.system("cls") # use "clear" insted of "cls" if you are on linux/unix
     print("\n################################### BILLS #####################################")
     print("name\t\t\tquantity\t\tprice")
     print(a)
+    print()
     print("##############################################################################")
     print("total = " , s)
     c = input()
@@ -12,6 +19,7 @@ def main():
     x = ""
     while i < 100 :
         try:
+            os.system("cls") # use "clear" insted of "cls" if you are on linux/unix
             print()
             print("##############################################################################")
             print("item no . : " , i)
