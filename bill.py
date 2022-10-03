@@ -6,6 +6,7 @@ import os
 def display(a , s):
     os.system("cls") # use "clear" insted of "cls" if you are on linux/unix
     print("\n################################### BILLS #####################################")
+    print()
     print("name\t\t\tquantity\t\tprice")
     print(a)
     print()
