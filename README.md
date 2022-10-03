@@ -10,3 +10,5 @@ storage.py is a program to calculate storage of your device . (no modules needed
 ## address.py
 address.py is a program to take a single line input and print it in multi line . (no modules needed)
 
+## game.py 
+game.py is a number guessing game made with python . (random module is used )
