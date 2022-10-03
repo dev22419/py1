@@ -2,6 +2,10 @@
 # www.github.com/dev22419
 import random
 
+def exit():
+    print("bye , have a great time .")
+
+    
 def main():
     x = random.randrange(1 , 100)
     print("you have 10 chance to guess the the number .")
@@ -27,5 +31,11 @@ def main():
     print()
 
     print("you lose the correct answer is" , i)
+    print()
+    o = input("do you want to play one more game ? (y , n) : ")
+    if o == "y":
+        main()
+    else :
+        exit()
 
 main()
