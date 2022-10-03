@@ -26,6 +26,8 @@ def lose( i ):
 
 def main():
     x = random.randrange(1 , 100)
+    print("the number is between 1 to 100 .")
+    print()
     print("you have 10 chance to guess the the number .")
     print()
     i = 1
