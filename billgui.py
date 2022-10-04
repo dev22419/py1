@@ -6,10 +6,10 @@ from tkinter import *
 
 def gui(a , s):
     s = str(s)
-    t = "total = "
+    t = "Total = ₹ "
     s = t + s
     m = Tk()
-    T = Text(m)
+    T = Text(m , font=("Arial" , 12))
     T.pack()
     T.insert(END , "\n################################### BILLS #####################################\n")
     T.insert( END , "name\t\t\tquantity\t\t\tprice\n")
@@ -49,6 +49,8 @@ def main():
             t = (q*p) + t
             q = str(q)
             p = str(p)
+            r = "₹ "
+            p = r + p
             x = x + "\n" + n[:5] + "\t\t\t" + q + "\t\t\t" + p
             i = i + 1
         except(ValueError):
