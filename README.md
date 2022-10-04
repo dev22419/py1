@@ -8,7 +8,7 @@ download :-<br>
 ```
 wget https://raw.githubusercontent.com/dev22419/py1/main/bill.py -o bill.py
 ```
-
+<hr>
 ## storage.py
 storage.py is a program to calculate storage of your device . (no modules needed)
 
