@@ -20,17 +20,6 @@ def gui(a , s):
     T.insert(END , s)
     m.mainloop()
 
-def display(a , s):
-    os.system("cls") # use "clear" insted of "cls" if you are on linux/unix
-    print("\n################################### BILLS #####################################")
-    print()
-    print("name\t\t\tquantity\t\tprice")
-    print(a)
-    print()
-    print("##############################################################################")
-    print("total = " , s)
-    c = input()
-    gui(a , s)
 
 def main():
     i = 1
