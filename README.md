@@ -4,7 +4,7 @@ my own python projects
 ## bill.py
 bill.py is a program to make bill using user input . (no modules needed)
 
-download :-
+download :-<br>
 wget https://raw.githubusercontent.com/dev22419/py1/main/bill.py -o bill.py
 
 ## storage.py
