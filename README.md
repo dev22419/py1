@@ -23,7 +23,9 @@ wget https://raw.githubusercontent.com/dev22419/py1/main/address.py -o address.p
 game.py is a number guessing game made with python . (random module is used )
 
 download :-<br>
+```
 wget https://raw.githubusercontent.com/dev22419/py1/main/game.py -o game.py
+```
 
 ## RTD.py
 RTD.py is a game to roll the dice and guess the number with python . (time , random module is used )
