@@ -9,6 +9,15 @@ download :-<br>
 wget https://raw.githubusercontent.com/dev22419/py1/main/bill.py -o bill.py
 ```
 
+## billgui.py
+bill.py is a program to make bill using user input . (no modules needed)
+
+download :-<br>
+```
+wget https://raw.githubusercontent.com/dev22419/py1/main/billgui.py -o billgui.py
+```
+
+
 ## storage.py
 storage.py is a program to calculate storage of your device . (no modules needed)
 
