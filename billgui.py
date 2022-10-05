@@ -9,6 +9,7 @@ def gui(a , s):
     t = "Total = ₹ "
     s = t + s
     m = Tk()
+    m.title('BILL GUI')
     T = Text(m , font=("Arial" , 12))
     T.pack()
     T.insert(END , "\n################################### BILLS #####################################\n")
