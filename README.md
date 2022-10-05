@@ -13,7 +13,7 @@ wget https://raw.githubusercontent.com/dev22419/py1/main/bill.py -o bill.py
 billgui.py is a program to make a gui bill by taking multiple input from the user . (tkinter , os modules is used)
 
 <a href=#>
-<img src="./img/bill.png" height="250px" width="250px">
+<img src="./img/bill.png" height="250px" width="350px">
 </a>
 
 download :-<br>
