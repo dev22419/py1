@@ -10,7 +10,7 @@ wget https://raw.githubusercontent.com/dev22419/py1/main/bill.py -o bill.py
 ```
 
 ## billgui.py
-bill.py is a program to make bill using user input . (no modules needed)
+bi ll.py is a program to make a gui bill by taking multiple input from the user . (tkinter , os modules is used)
 
 download :-<br>
 ```
