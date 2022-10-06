@@ -4,7 +4,7 @@ my own python projects
 ## bill.py
 bill.py is a program to make bill using user input . (no modules needed)
 
-download :-<br>
+download (paste the following command in cmd):-<br>
 ```
 wget https://raw.githubusercontent.com/dev22419/py1/main/bill.py -o bill.py
 ```
@@ -16,7 +16,7 @@ billgui.py is a program to make a gui bill by taking multiple input from the use
 <img src="./img/bill.png" height="250px" width="350px">
 </a>
 
-download :-<br>
+download (paste the following command in cmd) :-<br>
 ```
 wget https://raw.githubusercontent.com/dev22419/py1/main/billgui.py -o billgui.py
 ```
@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/dev22419/py1/main/billgui.py -o billgui.p
 ## storage.py
 storage.py is a program to calculate storage of your device . (no modules needed)
 
-download :-<br>
+download (paste the following command in cmd) :-<br>
 ```
 wget https://raw.githubusercontent.com/dev22419/py1/main/storage.py -o storage.py
 ```
@@ -33,7 +33,7 @@ wget https://raw.githubusercontent.com/dev22419/py1/main/storage.py -o storage.p
 ## address.py
 address.py is a program to take a single line input and print it in multi line . (no modules needed)
 
-download :-<br>
+download (paste the following command in cmd):-<br>
 ```
 wget https://raw.githubusercontent.com/dev22419/py1/main/address.py -o address.py
 ```
@@ -41,7 +41,7 @@ wget https://raw.githubusercontent.com/dev22419/py1/main/address.py -o address.p
 ## game.py 
 game.py is a number guessing game made with python . (random module is used )
 
-download :-<br>
+download (paste the following command in cmd):-<br>
 ```
 wget https://raw.githubusercontent.com/dev22419/py1/main/game.py -o game.py
 ```
@@ -49,7 +49,7 @@ wget https://raw.githubusercontent.com/dev22419/py1/main/game.py -o game.py
 ## RTD.py
 RTD.py is a game to roll the dice and guess the number with python . (time , random module is used )
 
-download :-<br>
+download (paste the following command in cmd):-<br>
 ```
 wget https://raw.githubusercontent.com/dev22419/py1/main/RTD.py -o RTD.py
 ```
