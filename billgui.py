@@ -19,6 +19,8 @@ def gui(a , s):
     T.insert(END , "\n")
     T.insert(END , "##############################################################################\n")
     T.insert(END , s)
+    b = Button(m , text='close' ,fg='red', width=10 , command=m.destroy)
+    b.pack(side='right')
     m.mainloop()
 
 
