@@ -11,7 +11,7 @@ def display(a , s):
     print(a)
     print()
     print("##############################################################################")
-    print("total = " , s)
+    print("total = ₹" , s)
     c = input()
 
 def main():
@@ -31,6 +31,7 @@ def main():
             t = (q*p) + t
             q = str(q)
             p = str(p)
+            p = "₹" + p
             x = x + "\n" + n[:5] + "\t\t\t" + q + "\t\t\t" + p
             i = i + 1
         except (KeyboardInterrupt):
