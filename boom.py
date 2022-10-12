@@ -23,6 +23,7 @@ def boom( t , w , n):
 
 # main fuction
 def main():
+    os.system("cls")
     print("welcome\n")
 
     t = input("enter the text : ")
