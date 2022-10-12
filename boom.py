@@ -5,16 +5,18 @@
 # importing modules
 import pyautogui
 import time
+import os
 
 # booming function
 def boom( t , w , n):
+    os.system("cls")
     print("waiting for" , w , "seconds ....")
     print("open whatsapps as soon  as possible .....")
     time.sleep(w)
     i = 1
     while i <= n :
         pyautogui.typewrite(t)
-        time.sleep(1)
+        #time.sleep(1)
         pyautogui.press("enter")
         i = i + 1
         
