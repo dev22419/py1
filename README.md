@@ -53,3 +53,11 @@ download (paste the following command in cmd):-<br>
 ```
 wget https://raw.githubusercontent.com/dev22419/py1/main/RTD.py -o RTD.py
 ```
+
+## boom.py
+boom.py is a program to boom message to someone on whatsapp,instagram,telegram,sms,etc (modules needed = time , pyautogui , os)
+
+download (paste the following command in cmd):-<br>
+```
+wget https://raw.githubusercontent.com/dev22419/py1/main/boom.py -o boom.py
+```
